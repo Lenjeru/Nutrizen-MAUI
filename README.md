@@ -45,7 +45,7 @@ Este proyecto es de uso académico y no tiene fines comerciales.
 
 Capturas 
 <detail>
-![image 1](assets/Api.png)
+![image 1](https://github.com/Lenjeru/Nutrizen-MAUI/blob/ee31efd72808107fb4ad35d7afeef235b0b0f189/Captura%20de%20pantalla%202025-07-09%20112952.png)
 
 ![image 2](assets/Pantalladeinicio.png)
 
