@@ -1,0 +1,73 @@
+﻿@page "/cursos/modificar/{Id:int}"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador")]
+
+<h3>Modificar curso</h3>
+
+@if (curso == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+        <div class="card col-sm-6 mx-auto">
+        <div class="card-header">
+            <h4>@curso.Nombre</h4>
+        </div>
+        <div class="card-body text-center">
+            <img class="card-img-top img-fluid rounded" src="@curso.Imagen" />
+        </div>
+        </div>
+<CursoFormulario @ref="cursoForm"  curso="curso" OnValidSubmit="Editar" 
+    Cancelar="Navegar">
+</CursoFormulario>
+}
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private Curso? curso;
+    private CursoFormulario? cursoForm;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var respuestaHttp = await repositorio.Get<Curso>("/api/cursos/" + Id);
+
+        if (respuestaHttp.Error)
+        {
+            if (respuestaHttp.HttpResponseMessage.StatusCode == HttpStatusCode.NotFound)
+            {
+                navigationManager.NavigateTo("/cursos");
+                return;
+            }
+        }
+
+        curso = respuestaHttp.Response;
+    }
+
+    private async Task Editar()
+    {
+        var respuestaHttp = await repositorio.Put("/api/cursos/",curso);
+        if (respuestaHttp.Error)
+        {
+            var message = await respuestaHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message,
+            SweetAlertIcon.Error);
+
+            return;
+        }
+
+        Navegar();
+
+    }
+
+    private void Navegar()
+    {
+        cursoForm!.formularioPostOk = true;
+        navigationManager.NavigateTo("/cursos");
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ff4ZoLSphtv/29qYElbQAOgVQMtFVmWclLb0vLnBlD0=",
+  "Source": "TiendaCursos.API",
+  "BasePath": "_content/TiendaCursos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

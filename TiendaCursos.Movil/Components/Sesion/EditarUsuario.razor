@@ -1,0 +1,95 @@
+﻿@page "/EditarUsuario"
+@inject IRepositorio repositorio
+@inject SweetAlertService sweetAlertService
+@inject NavigationManager navigationManager
+
+@if (usuario is null)
+{
+    <div class="spinner"></div>
+
+}
+else
+{
+    <EditForm Model="usuario" OnValidSubmit="GuardarUsuario">
+        <DataAnnotationsValidator />
+         <div class="card">
+            <div class="card-header">
+                <span>
+                    Editar Perfil 
+                </span>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label>Nombre:</label>
+                    <div>
+                        <InputText class="form-control" @bind-Value="@usuario.Nombre" />
+                        <ValidationMessage For="@(() => usuario.Nombre)" />
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Apellidos:</label>
+                    <div>
+                        <InputText class="form-control" @bind-Value="@usuario.Apellidos" />
+                        <ValidationMessage For="@(() => usuario.Apellidos)" />
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Teléfono:</label>
+                    <div>
+                        <InputText class="form-control" @bind-Value="@usuario.PhoneNumber" />
+                        <ValidationMessage For="@(() => usuario.PhoneNumber)" />
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <span>
+                    <button class="btn btn-sm btn-primary" type="submit">
+                        Guardar
+                    </button>
+                    <a class="btn btn-sm btn-secondary" href="/cambioPassword">
+                        Cambiar Password
+                    </a>
+                </span>
+            </div>
+         </div>
+    </EditForm>
+}
+
+@code {
+    private Usuario? usuario;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarUsuario();
+    }
+
+    private async Task CargarUsuario()
+    {
+        var respuestaHttp = await repositorio.Get<Usuario>("/api/usuarios");
+        if (respuestaHttp.Error)
+        {
+            if (respuestaHttp.HttpResponseMessage.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                navigationManager.NavigateTo("/");
+                return;
+            }
+            var messageError = await respuestaHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", messageError, SweetAlertIcon.Warning);
+            return;
+        }
+        usuario = respuestaHttp.Response;
+    }
+
+    private async Task GuardarUsuario()
+    {
+        var respuestaHttp = await repositorio.Put<Usuario>("/api/usuarios", usuario!);
+        if (respuestaHttp.Error)
+        {
+            var message = await respuestaHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+
+        navigationManager.NavigateTo("/");
+    }
+}

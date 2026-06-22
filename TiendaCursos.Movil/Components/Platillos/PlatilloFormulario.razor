@@ -1,0 +1,130 @@
+﻿@inject SweetAlertService sweetAlertService
+
+<NavigationLock OnBeforeInternalNavigation="OnBeforeInternalNavigation" />
+
+<EditForm EditContext="contextoEdicion" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="mb-3">
+        <label>Nombre:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Nombre" />
+            <ValidationMessage For="@(() => platillo.Nombre)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Ingredientes:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Ingredientes" />
+            <ValidationMessage For="@(() => platillo.Ingredientes)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Calorias:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Calorias" />
+            <ValidationMessage For="@(() => platillo.Calorias)" />
+        </div>
+    </div>
+     <div class="mb-3">
+        <label>Categoria:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Categoria" />
+            <ValidationMessage For="@(() => platillo.Categoria)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Precio:</label>
+        <div>
+            <InputNumber class="form-control" @bind-Value="@platillo.Precio" />
+            <ValidationMessage For="@(() => platillo.Precio)" />
+        </div>
+    </div>
+     <div class="mb-3">
+        <label>Cantidad:</label>
+        <div>
+            <InputNumber class="form-control" @bind-Value="@platillo.Cantidad" />
+            <ValidationMessage For="@(() => platillo.Cantidad)" />
+        </div>
+    </div>
+    <div class="mb-3">
+       <label>Unidad:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Unidad" />
+            <ValidationMessage For="@(() => platillo.Unidad)" />
+        </div>
+    </div>
+     <div class="mb-3">
+        <label>imagen:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@platillo.Imagen" />
+            <ValidationMessage For="@(() => platillo.Imagen)" />
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Guardar</button>
+    <button class="btn btn-danger" @onclick="Cancelar">Cancelar</button>
+ </EditForm>
+
+
+@code {
+
+    private EditContext contextoEdicion = null!;
+    private string? UrlImagen;
+
+    [Parameter]
+    [EditorRequired]
+    public Platillo platillo { get; set; } = null!;
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback OnValidSubmit { get; set; }
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback Cancelar { get; set; }
+
+    public bool formularioPostOk { get; set; }
+
+
+
+    protected override void OnInitialized()
+    {
+        contextoEdicion = new(platillo);
+
+        if (!string.IsNullOrEmpty(platillo.Imagen))
+        {
+            UrlImagen = platillo.Imagen;
+            platillo.Imagen = null;
+        }
+
+    }
+
+    private async Task OnBeforeInternalNavigation(LocationChangingContext contexto)
+    {
+        var formularioModificado = contextoEdicion.IsModified();
+        if (!formularioModificado || formularioPostOk)
+            return;
+
+        var result = await sweetAlertService.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmación",
+                Text = "¿Deseas abandonar la página?Perderá los cambios",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "No",
+                ConfirmButtonText = "Si"
+            });
+        var confirm = !string.IsNullOrEmpty(result.Value);
+        if (confirm)
+            return;
+
+        contexto.PreventNavigation();
+    }
+
+    private void ImagenSeleccion(string imagenBase64)
+    {
+        platillo.Imagen = imagenBase64;
+        UrlImagen = null;
+    }
+
+}
+

@@ -1,0 +1,81 @@
+﻿<nav>
+  <ul class="pagination">
+        @foreach (var link in Enlaces)
+        {
+                <li @onclick=@(() => InternalSelectedPage(link))
+                    style="cursor:pointer" class="accordion-item @(link.Enable ? null: "disabled") @(link.Enable ? "active" : null)">
+                    <a class="page-link">@link.Texto</a>
+                </li>
+
+        }
+
+  </ul>
+</nav>
+
+@code {
+    [Parameter]
+    public int PaginaActual { get; set; } = 1;
+    [Parameter]
+    public int TotalPaginas { get; set; }
+    [Parameter]
+    public int Radio { get; set; } = 5;
+
+    [Parameter]
+    public EventCallback<int> PaginaSeleccionada { get; set; }
+
+    List<PageModel> Enlaces = new();
+
+    protected override void OnParametersSet()
+    {
+        Enlaces = new List<PageModel>();
+        var previousLinkEnable = PaginaActual != 1;
+        var previousLinkPage = PaginaActual - 1;
+        Enlaces.Add(new PageModel
+            {
+                Texto = "Anterior",
+                Pagina = previousLinkPage,
+                Enable = previousLinkEnable
+            });
+
+        for (int i = 1; i <= TotalPaginas; i++)
+        {
+            if (i >= PaginaActual - Radio && i <= PaginaActual + Radio)
+            {
+                Enlaces.Add(new PageModel
+                    {
+                        Pagina = i,
+                        Enable = PaginaActual == i,
+                        Texto = $"{i}"
+                    });
+            }
+
+        }
+
+        var ProximoLink = PaginaActual != TotalPaginas;
+        var ProximaPagina = PaginaActual + 1;
+        Enlaces.Add(new PageModel
+            {
+                Texto = "Siguiente",
+                Pagina = ProximaPagina,
+                Enable = ProximoLink
+            });
+
+    }
+
+    private async Task InternalSelectedPage(PageModel pageModel)
+    {
+        if (pageModel.Pagina == PaginaActual || pageModel.Pagina == 0)
+        {
+            return;
+        }
+        await PaginaSeleccionada.InvokeAsync(pageModel.Pagina);
+    }
+
+    class PageModel
+    {
+        public string Texto { get; set; } = null!;
+        public int Pagina { get; set; }
+        public bool Enable { get; set; } = true;
+        public bool Active { get; set; } = false;
+    }
+}

@@ -1,0 +1,24 @@
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.deps.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.pdb
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.AssemblyInfoInputs.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.AssemblyInfo.cs
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.csproj.CoreCompileInputs.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\refint\TiendaCursos.Shared.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.pdb
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\ref\TiendaCursos.Shared.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.csproj.AssemblyReference.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.deps.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\bin\Debug\net8.0\TiendaCursos.Shared.pdb
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.csproj.AssemblyReference.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.AssemblyInfoInputs.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.AssemblyInfo.cs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\refint\TiendaCursos.Shared.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\TiendaCursos.Shared.pdb
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Shared\obj\Debug\net8.0\ref\TiendaCursos.Shared.dll

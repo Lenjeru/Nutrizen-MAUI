@@ -1,0 +1,154 @@
+﻿@page "/Platillo/detalles/{PlatilloId:int}"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+
+  <style>
+    pre {
+      white-space: pre-wrap;
+    }
+  </style>
+
+@if (cargando)
+{
+        <div class="spinner" />
+}
+else
+{
+           <div class="card">
+            <div class="card-header">
+                <span>
+                    <strong>@platillo!.Nombre</strong>
+                    <a class="btn btn-sm btn-success float-end" href="/">Volver</a>
+                </span>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="mb-3">
+                            <div>
+                               <b>@platillo.Ingredientes</b>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <div>
+                                    <pre>@platillo.Calorias</pre>
+                            </div>
+                        </div>
+                            <div class="mb-3">
+                                <div>
+                                        <pre>@platillo.Categoria</pre>
+                                </div>
+                            </div>
+                        <div class="mb-3">
+                            <div>
+                                <b>@($"{platillo.Precio:C2}")</b>
+                            </div>
+                        </div>
+                            <div class="mb-3">
+                                <div>
+                                            <pre>@platillo.Cantidad</pre>
+                                </div>
+                            </div>
+                              <div class="mb-3">
+                                    <div>
+                                                <pre>@platillo.Unidad</pre>
+                                    </div>
+                                </div>      
+                    </div>
+                    <div class="col-6">
+                        <EditForm Model="pedidoTemporalDTO" OnValidSubmit="AgregarCarritoAsync">
+                            <DataAnnotationsValidator />
+                            <button class="btn btn-primary" type="submit">
+                                Agregar al carrito
+                            </button>
+                        </EditForm>
+                        <br />
+                        <br />
+                    <img class="card-img-top img-fluid rounded" src="@platillo.Imagen" />
+                    </div>
+                </div>
+            </div>
+           </div>
+
+}
+
+@code {
+
+    [Parameter]
+    public int PlatilloId { get; set; }
+    private bool cargando = true;
+    private Platillo? platillo;
+    private bool estaAutenticado;
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; } = null!;
+    public PedidoTemporalDTO pedidoTemporalDTO { get; set; } = new();
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        await CargarPlatilloAsync();
+    }
+
+    protected async override Task OnParametersSetAsync()
+    {
+        await ComprobarAutenticacionAsync();
+    }
+
+    private async Task ComprobarAutenticacionAsync()
+    {
+        var authenticationState = await authenticationStateTask;
+        estaAutenticado = authenticationState.User.Identity!.IsAuthenticated;
+    }
+    private async Task CargarPlatilloAsync()
+    {
+        cargando = true;
+        var httpResponse = await repositorio.Get<Platillo>($"/api/platillos/{PlatilloId}");
+        if (httpResponse.Error)
+        {
+            cargando = false;
+            var message = await httpResponse.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+        platillo = httpResponse.Response!;
+        cargando = false;
+    }
+
+    public async Task AgregarCarritoAsync()
+    {
+        if (!estaAutenticado)
+        {
+            navigationManager.NavigateTo("/Login");
+            var toast1 = sweetAlertService.Mixin(new SweetAlertOptions
+                {
+                    Toast = true,
+                    Position = SweetAlertPosition.TopStart,
+                    ShowConfirmButton = false,
+                    Timer = 4000
+                });
+            await toast1.FireAsync(icon: SweetAlertIcon.Error, message: "Debes haber iniciado sesión para agregar productos al carrito.");
+            return;
+        }
+
+        pedidoTemporalDTO.PlatilloId = PlatilloId;
+        var httpResponse = await repositorio.Post("/api/PedidoTemporal", pedidoTemporalDTO);
+        if (httpResponse.Error)
+        {
+            var message = await httpResponse.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+        var toast2 = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.TopStart,
+                ShowConfirmButton = false,
+                Timer = 5000
+            });
+        await toast2.FireAsync(icon: SweetAlertIcon.Success, message: "Platillo agregado al carrito.");
+        navigationManager.NavigateTo("/");
+    }
+
+
+}

@@ -1,0 +1,73 @@
+﻿@inject SweetAlertService sweetAlertService
+<div>
+    <label>@Nombre</label>
+    <div>
+        <InputFile OnChange="OnChange" accept=".jpg,.jpeg,.png" />
+    </div>
+</div>
+
+<div>
+    @if (imagenEnBase64 != null)
+    {
+        <div>
+            <div style="margin: 10px">
+                <img src="data:image/jpeg;base64, @imagenEnBase64" style="width:400px" />
+            </div>
+        </div>
+
+    }
+
+    @if (UrlImagen != null)
+    {
+        <div>
+            <div style="margin: 10px">
+                <img src="@UrlImagen" style="width:400px" />
+            </div>
+        </div>
+    }
+
+</div>
+
+@code {
+    [Parameter]
+    public string Nombre { get; set; } = "Imagen";
+
+    [Parameter] 
+    public EventCallback<string> ImagenSeleccionada { get; set; }
+
+    [Parameter]
+    public string? UrlImagen { get; set; }
+
+    private string? imagenEnBase64;
+
+    async Task OnChange(InputFileChangeEventArgs e)
+    {
+        var imagenes = e.GetMultipleFiles();
+        var tamanoMaximo = 1024 * 1024; // 1 MB
+
+        foreach (var imagen in imagenes)
+        {
+            if (imagen.Size <= tamanoMaximo)
+            {
+                var arrBytes = new byte[imagen.Size];
+                Stream stream = imagen.OpenReadStream(maxAllowedSize: tamanoMaximo);//1MB
+                await stream.ReadAsync(arrBytes);
+                imagenEnBase64 = Convert.ToBase64String(arrBytes);
+                UrlImagen = null;
+                await ImagenSeleccionada.InvokeAsync(imagenEnBase64);
+                StateHasChanged();
+            }
+            else
+            {
+                var message = "El tamaño máximo de la imagen es de un mega";
+                await sweetAlertService.FireAsync("Error", message,SweetAlertIcon.Error);
+                imagenEnBase64 = null;
+                UrlImagen = null;
+                StateHasChanged();
+                return;
+            }
+
+
+        }
+    }
+}

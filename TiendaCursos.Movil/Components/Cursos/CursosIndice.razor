@@ -1,0 +1,97 @@
+﻿@page "/cursos"
+@using Microsoft.AspNetCore.Authorization
+@inject IRepositorio repositorio
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador")]
+
+<h3>Lista Cursos</h3>
+
+
+<div class="form-group row">
+    <div class="col-sm-10">
+        <a href="/cursos/crear" class="btn btn-primary m-1">Nuevo Curso</a>
+    </div>
+</div>
+
+<ListaGenerica MiLista="Cursos">
+    <Cargando>
+        <div class="spinner"></div>
+    </Cargando>
+    <Cuerpo>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th><strong>Nombre Curso</strong></th>
+                    <th><strong>Precio</strong></th>
+                    <th><strong>Modificar</strong></th>
+                    <th><strong>Eliminar</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Curso c in Cursos)
+                {
+                    <tr>
+                        <td>@c.Nombre</td>
+                        <td>@c.Precio</td>
+                        <td>
+                            <a class="btn btn-primary m-1" href="/cursos/modificar/@c.Id">Modificar</a>
+                        </td>
+                        <td>
+                            <input type="submit" class="btn btn-danger" @onclick=@(()=>Eliminar(c.Id)) value="Eliminar" />
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </Cuerpo>
+</ListaGenerica>
+
+@code {
+
+    public List<Curso>? Cursos { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Cargar();
+    }
+
+    private async Task Cargar()
+    {
+        var response = await repositorio.Get<List<Curso>>("/api/cursos");
+        Cursos = response.Response;
+    }
+
+
+    private async Task Eliminar(int id)
+    {
+        var result = await sweetAlertService.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmación",
+                Text = "¿Estás seguro de borrar el curso?",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "No",
+                ConfirmButtonText = "Si"
+            });
+
+        var confirm = string.IsNullOrEmpty(result.Value);
+        if (confirm)
+            return;
+
+        var respuestaHttp = await repositorio.Delete("/api/cursos/" + id);
+        if (respuestaHttp.Error)
+        {
+            if(respuestaHttp.HttpResponseMessage.StatusCode != HttpStatusCode.NotFound)
+            {
+                var message = await respuestaHttp.GetErrorMessageAsync();
+                await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+                return;
+            }
+
+        }
+        await Cargar();
+    }
+}

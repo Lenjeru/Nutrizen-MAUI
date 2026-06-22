@@ -1,0 +1,153 @@
+﻿@page "/Pedidos/PedidoDetalles/{PedidoId:int}"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador,Usuario")]
+
+@if (pedido is null)
+{
+    <div class="spinner" />
+}
+else
+{
+   <GenericList MyList="pedido.PedidoDetalles!.ToList()">
+    <Body>
+          <div class="card">
+                <div class="card-header">
+                    <a class="btn btn-sm btn-success float-end" href="/Pedidos">Volver</a>
+                </div>
+                <div class="card-body">
+                    <div class="container my-4">
+                        <div class="row justify-content-between">
+                            <div class="col-6">
+                                <h3>@pedido.Usuario!.NombreCompleto</h3>
+                                <p>Teléfono: <strong>@pedido.Usuario.PhoneNumber</strong></p>
+                                <p>Email: <strong>@pedido.Usuario.Email</strong></p>
+                            </div>
+                            <div class="col-6 text-end">
+                                @if (pedido.estadoPedido == EstadoPedidos.Nuevo)
+                                {
+                                    <button class="btn btn-danger btn-sm btn-block" @onclick=@(() => CancelarPedidoAsync())>
+                                        Cancelar
+                                    </button>
+                                      <AuthorizeView Roles="Administrador">
+                                        <Authorized>
+                                    <button class="btn btn-info  btn-sm btn-block" @onclick=@(() => ConfirmarPedidoAsync())>
+                                        Confirmar
+                                    </button>
+                                        </Authorized>
+                                    </AuthorizeView>
+                                  
+                                }
+                            </div>
+                        </div>
+
+                        <div class="row my-2">
+                            <div class="col-6">
+                                <p>Estado: <strong>@pedido.estadoPedido</strong></p>
+                                <p>Fecha: <strong>@($"{pedido.Fecha.ToLocalTime():yyyy/MM/dd}")</strong></p>
+                                <p>Líneas: <strong>@pedido.Lines</strong></p>
+                                <p>Total: <strong>@($"{pedido.total:C2}")</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+                <div class="card-footer">
+                     <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Producto</th>
+                                <th>Imagen</th>
+                                <th>Precio</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var pedidoDet in pedido.PedidoDetalles!)
+                            {
+                                <tr>
+                                    <td>@pedidoDet.platillo!.Nombre</td>
+                                    <td><img src="@pedidoDet.platillo!.Imagen" style="width:100px;" /></td>
+                                    <td>@($"{pedidoDet.platillo!.Precio:C2}")</td>
+                                </tr>
+
+                            }
+                        </tbody>
+                     </table>
+                </div>
+            </div>
+    </Body>
+   </GenericList>
+}
+
+
+@code {
+    private Pedido? pedido;
+    [Parameter]
+    public int PedidoId { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        await CargarAsync();
+
+    }
+
+    private async Task CargarAsync()
+    {
+        var responseHttp = await repositorio.Get<Pedido>($"/api/pedidos/{PedidoId}");
+        if (responseHttp.Error)
+        {
+            if (responseHttp.HttpResponseMessage.StatusCode == HttpStatusCode.NotFound)
+            {
+                navigationManager.NavigateTo("/pedidos");
+                return;
+            }
+
+            var messageError = await responseHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", messageError, SweetAlertIcon.Error);
+            return;
+        }
+        pedido = responseHttp.Response;
+    }
+
+    private async void CancelarPedidoAsync()
+    { 
+        await ModificarEstado("cancelar", EstadoPedidos.Cancelado);
+    }
+
+    private async void ConfirmarPedidoAsync()
+    {
+        await ModificarEstado("confirmar", EstadoPedidos.Confirmado);
+    }
+
+    private async Task ModificarEstado(string texto, EstadoPedidos estado)
+    {
+        var result = await sweetAlertService.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmar",
+                Text = $"¿Esta seguro que quieres {texto} el pedido?",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true
+            });
+        var confirm = string.IsNullOrEmpty(result.Value);
+
+        if (confirm)
+            return;
+
+        var pedidoDTO = new PedidoDTO
+            {
+                Id = PedidoId,
+                Estado = estado
+            };
+
+        var responseHTTP = await repositorio.Put("/api/pedidos", pedidoDTO);
+
+        if (responseHTTP.Error)
+        {
+            var mensajeError = await responseHTTP.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+            return;
+        }
+
+        navigationManager.NavigateTo("/pedidos");
+    }
+}

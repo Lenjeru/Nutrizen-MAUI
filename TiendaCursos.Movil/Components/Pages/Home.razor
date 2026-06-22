@@ -1,0 +1,210 @@
+﻿@page "/"
+@inject IRepositorio repositorio
+@inject SweetAlertService sweetAlertService
+@inject NavigationManager navigationManager
+
+@if (Platillos is null)
+{
+    <div class="spinner" />
+
+}
+else
+{
+     <div class="mb-2" style="display: flex; flex-wrap:wrap; align-items: center;">
+        <div class="mx-2">
+            <input style="width: 400px;" type="text" class="form-control" id="titulo" placeholder="Buscar Platillo"
+                   @bind-value="Filtro" />
+         </div>
+        <div>
+            <button type="button" class="btn btn-outline-primary" @onclick="AplicarFiltro">Buscar</button>
+            <button type="button" class="btn btn-outline-danger" @onclick="LimpiarFiltro">Limpiar</button>
+        </div>
+     </div>
+
+    <Paginacion PaginaActual="PaginaActual" TotalPaginas="TotalPaginas"
+                PaginaSeleccionada="PaginaSeleccionada" />
+
+    <div class="d-flex justify-content-end">
+        <AuthorizeView>
+            <Authorized>
+                @if (contador > 0)
+                {
+                    <a href="/Pedidos/MostrarCarrito" class="btn btn-outline-dark">Ver Carrito (@contador)</a>
+
+                }
+            </Authorized>
+        </AuthorizeView>
+    </div>
+ <div class="row row-cols-1 row-cols-md-4 g-4 mt-1">
+        @foreach (var platillo in Platillos!)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <div class="text-center zoom">
+                        <img src="@platillo.Imagen" style="height:150px; max-width:200px;" class="text-center"
+                             alt=@platillo.Nombre />
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title text-navy"> @platillo.Nombre</h5>
+                        <p class="card-text smfnt">@platillo.Ingredientes</p>
+                        <h5 class="text-muted">@($"{platillo.Precio:C2}")</h5>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="/Platillo/detalles/@platillo.Id" class="btn btn-sm btn-info">
+                            Detalles
+                        </a>
+                        <button class="btn btn-sm btn-dark" @onclick=@(() => AgregarCarrito(platillo.Id))>
+                            Agregar al carrito
+                        </button>
+                    </div>
+                </div>
+            </div>
+        }
+
+ </div>
+}
+
+@code{
+    public List<Platillo>? Platillos { get; set; }
+    private int contador = 0;
+    private bool estaAutenticado;
+    private int PaginaActual = 1;
+    private int TotalPaginas;
+
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; } = null!;
+
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public string Pagina { get; set; } = "";
+
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public string Filtro { get; set; } = "";
+
+    protected async override Task OnInitializedAsync()
+    {
+        await CargarAsync();
+    }
+    protected async override Task OnParametersSetAsync()
+    {
+        await ComprobarAutenticacionAsync();
+        await CargarContadorAsync();
+
+    }
+
+    private async Task ComprobarAutenticacionAsync()
+    {
+        var authenticationState = await authenticationStateTask;
+        estaAutenticado = authenticationState.User.Identity!.IsAuthenticated;
+    }
+
+    private async Task PaginaSeleccionada(int pagina)
+    {
+        PaginaActual = pagina;
+        await CargarAsync(pagina);
+    }
+
+    private async Task CargarContadorAsync()
+    {
+        if (!estaAutenticado)
+            return;
+
+        var responseHttp = await repositorio.Get<int>("/api/PedidoTemporal/contador");
+        if (responseHttp.Error)
+        {
+            return;
+        }
+        contador = responseHttp.Response;
+
+    }
+
+    private async Task CargarAsync(int pagina=1)
+    {
+        try
+        {
+            await ComprobarAutenticacionAsync();
+            string url = "api/platillos?Pagina=" + pagina;
+            string urlTotalPaginas = "api/platillos/totalPaginas?Pagina" + pagina;
+
+            if (estaAutenticado)
+            {
+                url = "api/platillos/PlatillosUsuario?Pagina=" + pagina;
+                urlTotalPaginas = "api/platillos/PlatillosUsuarioPaginas?Pagina" + pagina;
+            }
+
+            if (!string.IsNullOrEmpty(Filtro))
+            {
+                url += "&Filtros=" + Filtro;
+                urlTotalPaginas += "&Filtros=" + Filtro;
+            }
+
+
+            var responseHttp= await  repositorio.Get<List<Platillo>>(url);
+            var responseTotalPaginas = await repositorio.Get<int>(urlTotalPaginas);
+            Platillos = responseHttp.Response!;
+            TotalPaginas = responseTotalPaginas.Response!;
+        }
+        catch (Exception ex)
+        {
+
+            await sweetAlertService.FireAsync("Error", ex.Message, SweetAlertIcon.Error);
+        }
+    }
+
+    private async void AgregarCarrito(int id)
+    {
+        if (!estaAutenticado)
+        {
+            navigationManager.NavigateTo("/Login");
+            var toast1 = sweetAlertService.Mixin(new SweetAlertOptions
+                {
+                    Toast = true,
+                    Position = SweetAlertPosition.TopStart,
+                    ShowConfirmButton = false,
+                    Timer = 5000
+                });
+            await toast1.FireAsync
+            (icon: SweetAlertIcon.Error, message: "Debes inicar sesion para agregar productos al carrito.");
+            return;
+        }
+        var PedidoTemporalDTO = new PedidoTemporalDTO
+            {
+                PlatilloId = id
+            };
+        var httpResponse = await repositorio.Post("/api/PedidoTemporal", PedidoTemporalDTO);
+        if (httpResponse.Error)
+        {
+            var message = await httpResponse.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+        await CargarContadorAsync();
+
+
+        var toast2 = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.TopStart,
+                ShowConfirmButton = false,
+                Timer = 3000
+            });
+        await toast2.FireAsync(icon: SweetAlertIcon.Success, message: "Producto agregado.");
+        StateHasChanged();
+    }
+
+    private async Task LimpiarFiltro()
+    {
+        Filtro = string.Empty;
+        await AplicarFiltro();
+    }
+
+    private async Task AplicarFiltro()
+    {
+        int pagina = 1;
+        await CargarAsync(pagina);
+        await PaginaSeleccionada(pagina);
+    }
+
+ 
+}

@@ -1,0 +1,664 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\controllers\\platilloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\controllers\\platilloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\platillos\\platillocrear.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\platillos\\platillocrear.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\helpers\\pedidoshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\helpers\\pedidoshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\helpers\\ipedidoshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\helpers\\ipedidoshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\platillos\\platilloformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\platillos\\platilloformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\estadopedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\estadopedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\pedidos\\mostrarcarrito.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\pedidos\\mostrarcarrito.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\platillos\\platillomodificar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\platillos\\platillomodificar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\pedidos\\pedidoindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\pedidos\\pedidoindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\controllers\\pedidotemporalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\controllers\\pedidotemporalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\layout\\paginacion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\layout\\paginacion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\platillos\\platillodetalles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\platillos\\platillodetalles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\platillos\\platilloindice.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\platillos\\platilloindice.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\tiendacursos.movil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\tiendacursos.movil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\repositorios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\repositorios\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\pedidos\\pedidocorrecto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\pedidos\\pedidocorrecto.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\platillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\migrations\\20250711004340_misegundocatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\migrations\\20250711004340_misegundocatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\migrations\\20250723002811_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\migrations\\20250723002811_pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\pedidos\\pedidodetalles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\pedidos\\pedidodetalles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\pedidotemporaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\pedidotemporaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\pedidotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\pedidotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.shared\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B782D4-0321-4DA5-B379-FE47206B5354}|TiendaCursos.Shared\\TiendaCursos.Shared.csproj|solutionrelative:tiendacursos.shared\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\helpers\\helperquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\helpers\\helperquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.api\\migrations\\20250719010119_pedidotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCE6720-8EDE-412D-93F7-3FE0454EF27F}|TiendaCursos.API\\TiendaCursos.API.csproj|solutionrelative:tiendacursos.api\\migrations\\20250719010119_pedidotemporal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\cursos\\cursoscrear.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\cursos\\cursoscrear.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|c:\\users\\angel beltran\\documents\\uni\\poo 2\\tiendacursos\\tiendacursos.movil\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBC24ED7-425D-444E-AD39-CF5CAFD13A1E}|TiendaCursos.Movil\\TiendaCursos.Movil.csproj|solutionrelative:tiendacursos.movil\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatilloFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloFormulario.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloFormulario.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloFormulario.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloFormulario.razor",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAG8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:37:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T00:09:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatillosController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PlatillosController.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Controllers\\PlatillosController.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PlatillosController.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Controllers\\PlatillosController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4v0IAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:11:27.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPedidosHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\IPedidosHelper.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Helpers\\IPedidosHelper.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\IPedidosHelper.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Helpers\\IPedidosHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:34:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\PedidosHelper.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Helpers\\PedidosHelper.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\PedidosHelper.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Helpers\\PedidosHelper.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:35:17.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MostrarCarrito.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\MostrarCarrito.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Pedidos\\MostrarCarrito.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\MostrarCarrito.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Pedidos\\MostrarCarrito.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T01:43:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatilloCrear.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloCrear.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloCrear.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloCrear.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloCrear.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:37:40.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Usuario.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Usuario.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:44:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedDb.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Data\\SeedDb.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Data\\SeedDb.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Data\\SeedDb.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Data\\SeedDb.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:38:33.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PaginacionDTO.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\PaginacionDTO.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PaginacionDTO.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\PaginacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:04:51.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlatilloModificar.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloModificar.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloModificar.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloModificar.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloModificar.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:37:22.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\EstadoPedidos.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\EstadoPedidos.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\EstadoPedidos.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\EstadoPedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:30:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Program.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:50:04.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Data\\DataContext.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:25:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Pedido.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Pedido.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:46:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T01:14:52.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoIndex.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoIndex.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoIndex.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoIndex.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoIndex.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T00:55:16.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PedidoTemporalController.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PedidoTemporalController.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Controllers\\PedidoTemporalController.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Controllers\\PedidoTemporalController.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Controllers\\PedidoTemporalController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:06:57.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Paginacion.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\Paginacion.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Layout\\Paginacion.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\Paginacion.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Layout\\Paginacion.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T00:02:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlatilloDetalles.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloDetalles.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloDetalles.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloDetalles.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloDetalles.razor",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T01:14:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlatilloIndice.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloIndice.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloIndice.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Platillos\\PlatilloIndice.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Platillos\\PlatilloIndice.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T00:56:26.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TiendaCursos.Movil.csproj",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\TiendaCursos.Movil.csproj",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\TiendaCursos.Movil.csproj",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\TiendaCursos.Movil.csproj",
+              "RelativeToolTip": "TiendaCursos.Movil\\TiendaCursos.Movil.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T22:54:28.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Repositorios\\Repositorio.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Repositorios\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Repositorios\\Repositorio.cs",
+              "RelativeToolTip": "TiendaCursos.Movil\\Repositorios\\Repositorio.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:53:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PedidoCorrecto.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoCorrecto.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoCorrecto.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoCorrecto.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoCorrecto.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T00:47:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T01:07:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Platillo.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Platillo.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\Platillo.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Platillo.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\Platillo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:04:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250711004340_MisegundoCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250711004340_MisegundoCatalogo.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Migrations\\20250711004340_MisegundoCatalogo.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250711004340_MisegundoCatalogo.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Migrations\\20250711004340_MisegundoCatalogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:43:40.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250723002811_Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250723002811_Pedidos.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Migrations\\20250723002811_Pedidos.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250723002811_Pedidos.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Migrations\\20250723002811_Pedidos.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:28:11.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PedidoDetalles.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoDetalles.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoDetalles.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Pedidos\\PedidoDetalles.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Pedidos\\PedidoDetalles.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T00:45:42.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Respuesta.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\Respuesta.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:32:27.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PedidoTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoTemporal.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\PedidoTemporal.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoTemporal.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\PedidoTemporal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:23:52.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PedidoTemporalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoTemporalDTO.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\PedidoTemporalDTO.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoTemporalDTO.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\PedidoTemporalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:03:47.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\PedidoDetalle.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoDetalle.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\PedidoDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:47:11.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.Shared\\PedidoDTO.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Shared\\PedidoDTO.cs",
+              "RelativeToolTip": "TiendaCursos.Shared\\PedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:39:06.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HelperQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\HelperQuerys.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Helpers\\HelperQuerys.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Helpers\\HelperQuerys.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Helpers\\HelperQuerys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:42:18.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250719010119_PedidoTemporal.cs",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250719010119_PedidoTemporal.cs",
+              "RelativeDocumentMoniker": "TiendaCursos.API\\Migrations\\20250719010119_PedidoTemporal.cs",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.API\\Migrations\\20250719010119_PedidoTemporal.cs",
+              "RelativeToolTip": "TiendaCursos.API\\Migrations\\20250719010119_PedidoTemporal.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:01:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CursosCrear.razor",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Cursos\\CursosCrear.razor",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Cursos\\CursosCrear.razor",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Cursos\\CursosCrear.razor",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Cursos\\CursosCrear.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T01:26:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-11T01:41:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "TiendaCursos.Movil\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-11T01:45:54.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "TiendaCursos.Movil\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Angel Beltran\\Documents\\UNI\\POO 2\\TiendaCursos\\TiendaCursos.Movil\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "TiendaCursos.Movil\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-11T01:48:20.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

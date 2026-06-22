@@ -1,0 +1,38 @@
+﻿@page "/platillos/crear"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador")]
+
+<h3>Crear Platillo</h3>
+
+<PlatilloFormulario @ref="Form" platillo="platillos" OnValidSubmit="Crear"
+                 Cancelar="Navegar"> </PlatilloFormulario>
+
+@code {
+
+    private Platillo platillos = new();
+    private PlatilloFormulario? Form;
+
+    private async Task Crear()
+    {
+        var httpResponse = await repositorio.Post("/api/platillos", platillos);
+        if (httpResponse.Error)
+        {
+            var message = await httpResponse.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message,
+            SweetAlertIcon.Error);
+
+            return;
+        }
+
+        Navegar();
+    }
+
+    private void Navegar()
+    {
+        Form!.formularioPostOk = true;
+        navigationManager.NavigateTo("/platillos");
+    }
+}
+

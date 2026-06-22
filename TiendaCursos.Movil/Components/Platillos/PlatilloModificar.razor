@@ -1,0 +1,74 @@
+﻿@page "/platillos/modificar/{Id:int}"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador")]
+
+<h3>Modificar Platillo</h3>
+
+@if (platillo == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+        <div class="card col-sm-6 mx-auto">
+        <div class="card-header">
+            <h4>@platillo.Nombre</h4>
+        </div>
+        <div class="card-body text-center">
+            <img class="card-img-top img-fluid rounded" src="@platillo.Imagen" />
+        </div>
+        </div>
+<PlatilloFormulario @ref="Form"  platillo="platillo" OnValidSubmit="Editar" 
+    Cancelar="Navegar">
+</PlatilloFormulario>
+}
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private Platillo? platillo;
+    private PlatilloFormulario? Form;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var respuestaHttp = await repositorio.Get<Platillo>("/api/platillos/" + Id);
+
+        if (respuestaHttp.Error)
+        {
+            if (respuestaHttp.HttpResponseMessage.StatusCode == HttpStatusCode.NotFound)
+            {
+                navigationManager.NavigateTo("/platillos");
+                return;
+            }
+        }
+
+        platillo = respuestaHttp.Response;
+    }
+
+    private async Task Editar()
+    {
+        var respuestaHttp = await repositorio.Put("/api/platillos/",platillo);
+        if (respuestaHttp.Error)
+        {
+            var message = await respuestaHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message,
+            SweetAlertIcon.Error);
+
+            return;
+        }
+
+        Navegar();
+
+    }
+
+    private void Navegar()
+    {
+        Form!.formularioPostOk = true;
+        navigationManager.NavigateTo("/platillos");
+    }
+}
+

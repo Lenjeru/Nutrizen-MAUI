@@ -1,0 +1,80 @@
+﻿@page "/Registrar"
+@inject IRepositorio repositorio
+@inject SweetAlertService sweetAlertService
+@inject NavigationManager navigationManager
+@inject ILoginServicio loginService
+
+<h3>Nuevo Usuario</h3>
+<EditForm Model="usuarioDTO" OnValidSubmit="CrearUsuarioAsync">
+    <DataAnnotationsValidator />
+    <div class="row">
+        <div class="mb-3">
+            <label>Nombre:</label>
+            <div>
+                <InputText class="form-control" @bind-Value="@usuarioDTO.Nombre" />
+                <ValidationMessage For="@(() => usuarioDTO.Nombre)" />
+            </div>
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Apellidos:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@usuarioDTO.Apellidos" />
+            <ValidationMessage For="@(() => usuarioDTO.Apellidos)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Email:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@usuarioDTO.Email" />
+            <ValidationMessage For="@(() => usuarioDTO.Email)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Teléfono:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@usuarioDTO.PhoneNumber" />
+            <ValidationMessage For="@(() => usuarioDTO.PhoneNumber)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Contraseña:</label>
+        <div>
+            <InputText type="password" class="form-control" @bind-Value="@usuarioDTO.Password" />
+            <ValidationMessage For="@(() => usuarioDTO.Password)" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label>Confirmación de contraseña:</label>
+        <div>
+            <InputText type="password" class="form-control" @bind-Value="@usuarioDTO.PasswordConfirm" />
+            <ValidationMessage For="@(() => usuarioDTO.PasswordConfirm)" />
+        </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Registrar</button>
+</EditForm>
+
+
+
+@code {
+    private UsuarioDTO usuarioDTO = new();
+
+    private async Task CrearUsuarioAsync()
+    {
+        usuarioDTO.UserName = usuarioDTO.Email;
+        usuarioDTO.tipoUsuario = TipoUsuario.Usuario;
+        var responseHttp = await repositorio.Post<UsuarioDTO, TokenDTO>
+        ("/api/usuarios/CrearUsuario", usuarioDTO);
+
+        if (responseHttp.Error)
+        {
+            var message = await responseHttp.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+
+        await loginService.LoginAsync(responseHttp.Response!.Token);
+        navigationManager.NavigateTo("/");
+
+    }
+}

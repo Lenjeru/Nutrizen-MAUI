@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "TiendaCursos.API\\TiendaCursos.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TiendaCursos.Movil\\TiendaCursos.Movil.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

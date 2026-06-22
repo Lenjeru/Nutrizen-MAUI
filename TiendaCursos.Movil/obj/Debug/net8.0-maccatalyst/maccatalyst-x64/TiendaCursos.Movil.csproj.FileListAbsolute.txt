@@ -1,0 +1,707 @@
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.runtimeconfig.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.pdb
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.JSInterop.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.development.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.TiendaCursos.Movil.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.build.TiendaCursos.Movil.props
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.TiendaCursos.Movil.props
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.TiendaCursos.Movil.props
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.pack.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\TiendaCursos.Movil.styles.css
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\TiendaCursos.Movil.bundle.scp.css
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.csproj.AssemblyReference.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.AssemblyInfoInputs.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.AssemblyInfo.cs
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.csproj.CoreCompileInputs.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.MvcApplicationPartsAssemblyInfo.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.csproj.CopyComplete
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\TiendaCursos.Movil.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.pdb
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.genruntimeconfig.cache
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\TiendaCursos.Movil.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Shared.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Shared.pdb
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CurrieTechnologies.Razor.SweetAlert2.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Identity.Core.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Logging.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Videos\Ejemplos codigo\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.staticwebassets.endpoints.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.runtimeconfig.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.pdb
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CurrieTechnologies.Razor.SweetAlert2.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.JSInterop.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Shared.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Shared.pdb
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\TiendaCursos.Movil.styles.css
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\TiendaCursos.Movil.bundle.scp.css
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.development.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.endpoints.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.TiendaCursos.Movil.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.TiendaCursos.Movil.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.build.TiendaCursos.Movil.props
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.TiendaCursos.Movil.props
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.TiendaCursos.Movil.props
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.pack.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.upToDateCheck.txt
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.endpoints.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.csproj.AssemblyReference.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.AssemblyInfoInputs.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.AssemblyInfo.cs
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.csproj.CoreCompileInputs.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCu.A7E838EA.Up2Date
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\TiendaCursos.Movil.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.pdb
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\TiendaCursos.Movil.genruntimeconfig.cache
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\TiendaCursos.Movil.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Angel Beltran\Documents\UNI\POO 2\TiendaCursos\TiendaCursos.Movil\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll

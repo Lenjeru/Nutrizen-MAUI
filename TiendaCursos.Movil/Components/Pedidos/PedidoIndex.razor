@@ -1,0 +1,88 @@
+﻿@page "/pedidos"
+@inject IRepositorio repositorio
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador,Usuario")]
+@if (Pedidos is null)
+{
+    <div class="spinner" />
+}
+else
+{
+     <GenericList MyList="Pedidos">
+       <Body>
+            <div class="card">
+                <div class="card-header">
+                    <span>
+                        Lista de pedidos
+                    </span>
+                </div>
+            </div>
+            <div class="card-body">
+              <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Usuario</th>
+                            <th>Estado</th>
+                            <th>Líneas</th>
+                            <th>Valor</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var pedido in Pedidos)
+                        {
+                            <tr>
+                                <td>
+                                    @($"{pedido.Fecha.ToLocalTime():yyyy/MM/dd hh:mm}")
+                                </td>
+                                <td>
+                                    @pedido.Usuario!.NombreCompleto
+                                </td>
+                                <td>
+                                    @pedido.estadoPedido
+                                </td>
+                                <td>
+                                    @pedido.Lines
+                                </td>
+                                <td>
+                                    @($"{pedido.total:C2}")
+                                </td>
+                                <td>
+                                    <a href="/Pedidos/PedidoDetalles/@pedido.Id" class="btn btn-info">Detalles</a>
+                                </td>
+                            </tr>
+                        
+                        }
+                    </tbody>
+              </table>
+            </div>
+        </Body>
+     </GenericList>
+
+}
+@code {
+    public List<Pedido>? Pedidos { get; set; }
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        await CargarAsync();
+    }
+
+    private async Task CargarAsync()
+    {
+        try
+        {
+            var responseHttp = await repositorio.Get<List<Pedido>>("/api/pedidos");
+            Pedidos = responseHttp.Response!; 
+        }
+        catch (Exception ex)
+        {
+            await sweetAlertService.FireAsync("Error", ex.Message, SweetAlertIcon.Error);
+        
+        }
+
+    }
+}

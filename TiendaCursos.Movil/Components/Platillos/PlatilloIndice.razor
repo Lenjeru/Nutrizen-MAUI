@@ -1,0 +1,162 @@
+﻿@page "/platillos"
+@using Microsoft.AspNetCore.Authorization
+@inject IRepositorio repositorio
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Administrador")]
+
+<h3>Lista Platillos</h3>
+
+<div class="form-group row">
+    <div class="col-sm-12">
+        <div class="d-flex justify-content-between align-items-center">
+            <div class="d-flex">
+                <input style="width: 400px;" type="text" class="form-control" id="titulo" placeholder="Buscar Platillo" @bind-value="Filtro" />
+                <button type="button" class="btn btn-outline-primary" @onclick="AplicarFiltro">Buscar</button>
+                <button type="button" class="btn btn-outline-danger" @onclick="LimpiarFiltro">Limpiar</button>
+            </div>
+            <div>
+                <a href="/platillos/crear" class="btn btn-primary m-1">Nuevo Platillo</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="form-group row">
+    <div class="col-sm-12">
+        <div class="d-flex justify-content-start">
+            <Paginacion PaginaActual="PaginaActual" TotalPaginas="TotalPaginas" PaginaSeleccionada="PaginaSeleccionada" />
+        </div>
+    </div>
+</div>
+
+<ListaGenerica MiLista="Platillos">
+    <Cargando>
+        <div class="spinner"></div>
+    </Cargando>
+    <Cuerpo>
+        <table class="table table-bordered border-success">
+            <thead>
+                <tr>
+                    <th><strong>Nombre Platillo</strong></th>
+                    <th><strong>Ingredientes</strong></th>
+                    <th><strong>Calorias</strong></th>
+                    <th><strong>Categoria</strong></th>
+                    <th><strong>Precio</strong></th>
+                    <th><strong>Cantidad</strong></th>
+                    <th><strong>Unidad</strong></th>
+                    <th><strong>Modificar</strong></th>
+                    <th><strong>Eliminar</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Platillo c in Platillos)
+                {
+                    <tr>
+                        <td>@c.Nombre</td>
+                        <td>@c.Ingredientes</td>
+                        <td>@c.Calorias</td>
+                        <td>@c.Categoria</td>
+                        <td>@c.Precio</td>
+                        <td>@c.Cantidad</td>
+                        <td>@c.Unidad</td>
+                        <td>
+                            <a class="btn btn-outline-primary" href="/platillos/modificar/@c.Id">Modificar</a>
+                        </td>
+                        <td>
+                            <input type="submit" class="btn btn-outline-danger" @onclick=@(()=>Eliminar(c.Id)) value="Eliminar" />
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+        </table>
+    </Cuerpo>
+</ListaGenerica>
+
+@code {
+
+    public List<Platillo>? Platillos { get; set; }
+    private int PaginaActual = 1;
+    private int TotalPaginas;
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public string Pagina { get; set; } = "";
+
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public string Filtro { get; set; } = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Cargar();
+    }
+
+    private async Task Cargar(int pagina = 1)
+    {
+        string url = "api/platillos?Pagina=" + pagina;
+        string urlTotalPaginas = "api/platillos/totalPaginas?Pagina" + pagina;
+
+        if (!string.IsNullOrEmpty(Filtro))
+        {
+            url += "&Filtros=" + Filtro;
+            urlTotalPaginas += "&Filtros=" + Filtro;
+        }
+
+        var responseTotalPaginas = await repositorio.Get<int>(urlTotalPaginas);
+        var response = await repositorio.Get<List<Platillo>>(url);
+
+        Platillos = response.Response;
+        TotalPaginas = responseTotalPaginas.Response!;
+    }
+
+    private async Task PaginaSeleccionada(int pagina)
+    {
+        PaginaActual = pagina;
+        await Cargar(pagina);
+    }
+
+    private async Task Eliminar(int id)
+    {
+        var result = await sweetAlertService.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmación",
+                Text = "¿Estás seguro de borrar este Platillo?",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "No",
+                ConfirmButtonText = "Si"
+            });
+
+        var confirm = string.IsNullOrEmpty(result.Value);
+        if (confirm)
+            return;
+
+        var respuestaHttp = await repositorio.Delete("/api/platillos/" + id);
+        if (respuestaHttp.Error)
+        {
+            if (respuestaHttp.HttpResponseMessage.StatusCode != HttpStatusCode.NotFound)
+            {
+                var message = await respuestaHttp.GetErrorMessageAsync();
+                await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+                return;
+            }
+
+        }
+        await Cargar();
+    }
+
+    private async Task LimpiarFiltro()
+    {
+        Filtro = string.Empty;
+        await AplicarFiltro();
+    }
+
+    private async Task AplicarFiltro()
+    {
+        int pagina = 1;
+        await Cargar(pagina);
+        await PaginaSeleccionada(pagina);
+    }
+}
