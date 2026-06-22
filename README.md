@@ -47,7 +47,7 @@ Capturas
 <detail>
 ![image 1](https://github.com/Lenjeru/Nutrizen-MAUI/blob/ee31efd72808107fb4ad35d7afeef235b0b0f189/Captura%20de%20pantalla%202025-07-09%20112952.png)
 
-![image 2](assets/Pantalladeinicio.png)
+![image 2](https://github.com/Lenjeru/Nutrizen-MAUI/blob/daae6fd2f428115a245178864e170e76022962f0/Captura%20de%20pantalla%202025-07-09%20112931.png)
 
 ![image 3](assets/Pantallasecundaria.png)
 </detail>
