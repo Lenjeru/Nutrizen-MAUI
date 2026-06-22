@@ -44,9 +44,10 @@ Licencia
 Este proyecto es de uso académico y no tiene fines comerciales.
 
 Capturas 
-
+<detail>
 ![image 1](https://github.com/Lenjeru/Nutrizen-MAUI/blob/f8b41a44b238a20d559b5a64cdc09e4252dcc7d1/Captura%20de%20pantalla%202025-07-09%20112952.png)
 
 ![image 2](https://github.com/Lenjeru/Nutrizen-MAUI/blob/7ed48a93cf29bf961877dfaf95311d55df831518/Captura%20de%20pantalla%202025-07-09%20112931.png)
 
 ![image 3](https://github.com/Lenjeru/Nutrizen-MAUI/blob/6f5843d8a2a83511980fc07c1acc24cc7c9b5457/Captura%20de%20pantalla%202025-07-09%20112859.png)
+</detail>
