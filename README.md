@@ -42,3 +42,6 @@ Proyecto universitario – Desarrollo de aplicaciones móviles con .NET MAUI
 Licencia
 
 Este proyecto es de uso académico y no tiene fines comerciales.
+
+Capturas 
+![image alt](https://github.com/Lenjeru/Nutrizen-MAUI/blob/e398e8a4aa1e6e0bccc9f05899ef298c5a0028c2/Captura%20de%20pantalla%202026-06-21%20203815.png)
